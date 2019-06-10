@@ -1,9 +1,10 @@
 # proxychecker
 Script proxy checker LIVE or DIE
 
-running in terminal
-install package php and curl
-running in script
-php proxychecker.php
-input your proxy in check and create to .txt
+running in terminal<br>
+install package php and curl<br>
+running in script<br>
+php proxychecker.php<br>
+input your proxy in check and create to .txt<br>
+
 
