@@ -1,5 +1,5 @@
 # proxychecker
-Script proxy checker LIVE or DIE
+script proxy checker LIVE or DIE
 
 running in terminal<br>
 install package php and curl<br>
